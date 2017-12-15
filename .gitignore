@@ -19,7 +19,6 @@ target/
 *.war
 *.ear
 *.zip
-*.tar.gz
 *.rar
 
 ### Maven template
